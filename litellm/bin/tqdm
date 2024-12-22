@@ -1,4 +1,4 @@
-#!/Users/jasper/Desktop/autogen_huggingface_any_llm/litellm/bin/python3.11
+#!/Users/jasper/Desktop/autogen_huggingface_any_llm/litellm/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
