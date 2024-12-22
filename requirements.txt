@@ -1,4 +1,6 @@
 autogen
+huggingface_hub
+
 # LITELLM PROXY DEPENDENCIES #
 anyio==4.4.0 # openai + http req.
 httpx==0.27.0 # Pin Httpx dependency
